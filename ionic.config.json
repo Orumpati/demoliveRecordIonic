@@ -1,0 +1,7 @@
+{
+  "name": "liverecord",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
